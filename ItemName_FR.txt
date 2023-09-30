@@ -1,0 +1,43 @@
+ItemName_FR = {
+/* clothing_base_fix */
+	ItemName_Base.TightsBlack = "Collant noir",
+	ItemName_Base.TightsBlackTrans = "Collants transparents",
+	ItemName_Base.TightsBlackSemiTrans = "Collants semi transparents",
+	ItemName_Base.TightsFishnets = "Collants résille",
+	ItemName_Base.BunnySuitBlack = "Costume de lapin noir",
+	ItemName_Base.BunnySuitPink = "Costume de lapin rose",
+	ItemName_Base.Swimsuit_TINT = "Maillot de bain",
+
+/* clothing_normal */
+	ItemName_Base.Leather_Harness = "Harnais en cuir",
+	ItemName_Base.Cuffs_Wrist = "Menottes de poignets",
+	ItemName_Base.Cuffs_Ankle = "Menottes de chevilles",
+	ItemName_Base.Cuffs_Collar = "Collier",
+	ItemName_Base.Striped_Stockings = "Bas rayés",
+	ItemName_Base.Fishnet_Gloves = "Gants résille",
+	ItemName_Base.Fishnet_Top = "Haut résille",
+	ItemName_Base.Fishnet_Bodysuit = "Maillot de corps résille",
+	ItemName_Base.Knee_High_Sneakers = "Baskets montantes aux genoux",
+	ItemName_Base.Knee_High_Boots = "Bottes montantes aux genoux",
+	ItemName_Base.Thigh_High_Boots = "Cuissardes",
+
+/* clothing_rubber */
+	ItemName_Base.Latex_Catsuit_Black = "Combinaison noire en latex",
+	ItemName_Base.Latex_Catsuit_Red = "Combinaison rouge en latex",
+	ItemName_Base.Latex_Catsuit_Nude = "Combinaison transparente en latex",
+	ItemName_Base.Latex_Hood = "Cagoule en latex",
+	ItemName_Base.Latex_Leotard = "Justaucorps en latex",
+	ItemName_Base.Latex_Bolero = "Boléro en latex",
+	ItemName_Base.Latex_Pants = "Pantalon en latex",
+	ItemName_Base.Latex_Pants_Open = "Pantalon en latex à entrejambe ouvert",
+	ItemName_Base.Latex_Skirt = "Jupe en latex",
+	ItemName_Base.Latex_Panties = "Culotte en latex",
+	ItemName_Base.Latex_Dildo_Panties = "Culotte avec vibromasseur",
+	ItemName_Base.Latex_Socks = "Chaussettes en latex",
+	ItemName_Base.Latex_Stockings = "Bas en latex",
+	ItemName_Base.Latex_Gloves = "Gants en latex",
+	ItemName_Base.Latex_Gloves_Long = "Gants long en latex",
+
+/* recipes */
+	ItemName_Base.Latex_Strip = "Bandes de latex",
+}
