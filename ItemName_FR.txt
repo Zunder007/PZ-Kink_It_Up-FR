@@ -37,7 +37,5 @@ ItemName_FR = {
 	ItemName_Base.Latex_Stockings = "Bas en latex",
 	ItemName_Base.Latex_Gloves = "Gants en latex",
 	ItemName_Base.Latex_Gloves_Long = "Gants long en latex",
-
-/* recipes */
 	ItemName_Base.Latex_Strip = "Bandes de latex",
 }
